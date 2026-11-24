@@ -6,8 +6,8 @@ Frameworks should explain how to analyse a problem, assess options and arrive at
 
 Examples:
 
-- Information Accountability
-- Business Object Identification
+- [Information Accountability](https://github.com/Mutual-Bootstrap/decision-frameworks/blob/main/Information%20Accountability.md)
+- [Business Object Identification](https://github.com/Mutual-Bootstrap/decision-frameworks/blob/main/Business%20Object%20Identification.md)
 - Capability Ownership
 - Decision Accountability
 
